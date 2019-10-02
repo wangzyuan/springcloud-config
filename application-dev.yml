@@ -14,5 +14,9 @@ spring:
     host: 49.234.118.253
     username: admin
     password: wadzxqes7
+  datasource:
+      url: jdbc:mysql://47.94.104.85:3306/yr_account?charaterEncoding=utf8&useSSL=false
+      username: root
+      password: wadzxqes7
 server:
   port: 9003
