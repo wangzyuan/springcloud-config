@@ -1,4 +1,5 @@
 spring:
+  profiles: dev
   application:
     # 对应config server所获取的配置文件的 {application}
     name: application
