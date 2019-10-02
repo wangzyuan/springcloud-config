@@ -19,4 +19,4 @@ spring:
       url: jdbc:mysql://47.94.104.85:3306/yr_account?charaterEncoding=utf8&useSSL=false
       username: root
 server:
-  port: 9003
+  port: 9010
